@@ -7,7 +7,7 @@ import numpy as np
 from numpy import cos, sin
 from scipy.fft import dst, idst
 
-# define contsants
+# define constants
 
 N = 100 # number of moving particles
 K = 10.0
